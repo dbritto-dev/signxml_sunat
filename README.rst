@@ -6,7 +6,7 @@ Python.
 *SignXML Sunat* implements all of the required components of the standard, and most recommended ones. Its features are:
 
 * Well-supported, portable, reliable dependencies: `lxml <https://github.com/lxml/lxml>`_, `xmlsec
-  <https://github.com/mehcode/python-xmlsec>`_, `
+  <https://github.com/mehcode/python-xmlsec>`_ `
 * Simple interface with useful defaults
 * Compactness, readability, and extensibility
 
