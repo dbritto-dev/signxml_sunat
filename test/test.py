@@ -11,7 +11,7 @@ class TestSignXMLSunat(unittest.TestCase):
         self.assertEqual(signed_doc, result_signed_doc_str)
 
     def test_verify(self):
-        verify = XMLVerifier().verify('sunat_signed.xml', 'rsapub.pem)
+        verify = XMLVerifier().verify('sunat_signed.xml', 'rsapub.pem')
 
         self.assertTrue(verify) 
 
