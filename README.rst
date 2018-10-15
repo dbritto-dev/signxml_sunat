@@ -35,7 +35,7 @@ SignXML SUNAT uses the ElementTree API (also supported by lxml) to work with XML
 
 .. code-block:: python
 
-    from signxml import XMLSigner, XMLVerifier
+    from signxml_sunat import XMLSigner, XMLVerifier
 
     signed_root = XMLSigner().sign('doc.xml', key_data='rsakey.pem', cert_data='rsacert.pem')
     # if you need password
