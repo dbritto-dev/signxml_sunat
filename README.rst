@@ -26,7 +26,7 @@ Note: SignXML depends on `lxml <https://github.com/lxml/lxml>`_ and `xmlsec
 | 18.04        |          | ``pip install lxml xmlsec``                                                                     |
 +--------------+----------+-------------------------------------------------------------------------------------------------+
 
-Note: In windows you need install a binary for lxml and xmlsec <https://www.lfd.uci.edu/~gohlke/pythonlibs>
+Note: In windows you need install a binary for lxml and xmlsec `<https://www.lfd.uci.edu/~gohlke/pythonlibs>`__
 
 Synopsis
 --------
