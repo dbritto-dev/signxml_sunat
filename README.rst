@@ -16,7 +16,7 @@ Installation
 
     pip install signxml_sunat
 
-Note: SignXML depends on `lxml <https://github.com/lxml/lxml>`_ and `xmlsec
+Note: SignXML SUNAT depends on `lxml <https://github.com/lxml/lxml>`_ and `xmlsec
 <https://github.com/mehcode/python-xmlsec>`__
 
 +--------------+----------+-------------------------------------------------------------------------------------------------+
@@ -31,7 +31,7 @@ Note: In windows you need install a binary for lxml and xmlsec `<https://www.lfd
 Synopsis
 --------
 
-SignXML uses the ElementTree API (also supported by lxml) to work with XML data.
+SignXML SUNAT uses the ElementTree API (also supported by lxml) to work with XML data.
 
 .. code-block:: python
 
