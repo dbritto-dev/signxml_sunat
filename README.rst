@@ -13,7 +13,7 @@ Python.
 Installation
 ------------
 ::
-    # another alternative
+
     pip install git@github.com:danilobrinu/signxml_sunat.git
     
 
