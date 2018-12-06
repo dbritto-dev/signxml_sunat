@@ -14,7 +14,7 @@ Installation
 ------------
 ::
 
-    pip install git+https://github.com/danilobrinu/signxml_sunat.git
+    pip install signxml_sunat
     
 
 Note: SignXML SUNAT depends on `lxml <https://github.com/lxml/lxml>`_ and `xmlsec
