@@ -1,5 +1,5 @@
 SignXML Sunat: XML Signature in Python for SUNAT
-================================
+================================================
 
 *SignXML Sunat* is an implementation of the W3C `XML Signature <http://en.wikipedia.org/wiki/XML_Signature>`_ standard in
 Python.
