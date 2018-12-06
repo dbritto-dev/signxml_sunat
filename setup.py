@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='signxml_sunat',
-    version='1.0.0',
+    version='1.0.1',
     author='@danilobrinu',
     author_email='ddbn.c2@gmail.com',
     description='SUNAT - sign and verify xml',
