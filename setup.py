@@ -6,7 +6,7 @@ setuptools.setup(
     author='@danilobrinu',
     author_email='ddbn.c2@gmail.com',
     description='SUNAT - sign and verify xml',
-    long_description=open('README.rst'),
+    long_description=open('README.rst').read(),
     install_requires=[
         'lxml >= 4.2.5',
         'xmlsec >= 1.3.52'
@@ -17,6 +17,6 @@ setuptools.setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Topic :: Software Development :: Libraries :: Python Modules'
+        'Topic :: Software Development :: Libraries :: Python Modules',
     ],
 )
