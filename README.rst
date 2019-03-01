@@ -50,6 +50,10 @@ Authors
 -------
 * Danilo Britto Nuñez
 
+Co-creativo
+--------
+* Miguel Caballero Bustinza
+
 Bugs
 ~~~~
 Please report bugs, issues, feature requests, etc. on `GitHub <https://github.com/danilobrinu/signxml_sunat/issues>`_.
